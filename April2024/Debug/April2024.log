@@ -1,0 +1,24 @@
+﻿  Kolekcija.cpp
+  main.cpp
+C:\Users\filip\source\repos\April2024\main.cpp(13,2): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\filip\source\repos\April2024\main.cpp(98,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\filip\source\repos\April2024\main.cpp(137,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\filip\source\repos\April2024\Kolekcija.h(123,13): warning C4101: 't': unreferenced local variable
+C:\Users\filip\source\repos\April2024\Kolekcija.h(111): message : while compiling class template member function 'void Kolekcija<int>::DodajPodatak(T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\filip\source\repos\April2024\main.cpp(88): message : see reference to function template instantiation 'void Kolekcija<int>::DodajPodatak(T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\filip\source\repos\April2024\main.cpp(84): message : see reference to class template instantiation 'Kolekcija<int>' being compiled
+C:\Users\filip\source\repos\April2024\Kolekcija.h(147,13): warning C4101: 'r': unreferenced local variable
+C:\Users\filip\source\repos\April2024\Kolekcija.h(131): message : while compiling class template member function 'void Kolekcija<int>::Obrisi(int)'
+C:\Users\filip\source\repos\April2024\main.cpp(94): message : see reference to function template instantiation 'void Kolekcija<int>::Obrisi(int)' being compiled
+  ProizvodKolekcija.cpp
+  Traka.cpp
+  Generating Code...
+  April2024.vcxproj -> C:\Users\filip\source\repos\April2024\Debug\April2024.exe

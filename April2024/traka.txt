@@ -1,0 +1,18 @@
+Trenutni: 4
+Kapacitet: 4
+Niz: Cena: 100
+Masa: 0
+Kakao: 20
+
+Niz: Cena: 1000
+Masa: 0
+Osmeh: 22
+
+Niz: Cena: 105
+Masa: 3
+Kakao: 21
+
+Niz: Cena: 1020.37
+Masa: 2
+Osmeh: 35
+

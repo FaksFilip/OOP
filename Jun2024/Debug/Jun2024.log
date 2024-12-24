@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\filip\source\repos\Jun2024\main.cpp(146,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\filip\source\repos\Jun2024\Novcanik.h(129,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Jun2024\Novcanik.h(124): message : while compiling class template member function 'int Novcanik<NovcanicaValuta>::NajmanjeNovcanica(int)'
+C:\Users\filip\source\repos\Jun2024\main.cpp(131): message : see reference to function template instantiation 'int Novcanik<NovcanicaValuta>::NajmanjeNovcanica(int)' being compiled
+C:\Users\filip\source\repos\Jun2024\main.cpp(112): message : see reference to class template instantiation 'Novcanik<NovcanicaValuta>' being compiled
+C:\Users\filip\source\repos\Jun2024\Novcanik.h(134,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Jun2024\Novcanik.h(134,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Novcanica.cpp
+  NovcanicaDinar.cpp
+  NovcanicaStrana.cpp
+  NovcanicaValuta.cpp
+  Novcanik.cpp
+  PorodicniNovcanik.cpp
+  Generating Code...
+  Jun2024.vcxproj -> C:\Users\filip\source\repos\Jun2024\Debug\Jun2024.exe

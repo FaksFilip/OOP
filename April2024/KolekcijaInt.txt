@@ -1,0 +1,6 @@
+Trenutni: 4
+Kapacitet: 8
+Niz: 23
+Niz: 37
+Niz: 28
+Niz: 34
